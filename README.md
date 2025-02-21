@@ -39,7 +39,7 @@ Aqui está sendo exibida a cima é o REFLETIDO
 
 O XSS Refletido não é um ataque persistente, portanto, o invasor precisa entregar a carga útil a cada vítima. Esses ataques costumam ser feitos por meio de redes sociais.
 
-🔁Contra medidas
+🔁Contramedidas
 - Garantir que qualquer página em seu site que aceite entrada do usuário filtre as entradas de código, como HTML e JavaScript.
 - Faça a varredura em busca de vulnerabilidades de aplicativos da Web e conserte-as de acordo.
 - Atualize seu site e software de servidor para evitar a exploração futura de vulnerabilidades que podem ser visadas por um ataque XSS.
